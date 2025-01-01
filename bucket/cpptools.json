@@ -1,6 +1,6 @@
 {
   "license": "MIT",
-  "bin": [".\\debugAdapters\\bin\\OpenDebugAD7.exe"],
+  "bin": ["debugAdapters\\bin\\OpenDebugAD7.exe"],
   "homepage": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools",
   "url": "https://github.com/microsoft/vscode-cpptools/releases/download/v1.22.11/cpptools-windows-x64.vsix",
   "extract_dir": "extension",
