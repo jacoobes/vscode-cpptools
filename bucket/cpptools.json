@@ -3,7 +3,6 @@
   "bin": ["debugAdapters\\bin\\OpenDebugAD7.exe"],
   "homepage": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools",
   "url": "https://github.com/microsoft/vscode-cpptools/releases/download/v1.22.11/cpptools-windows-x64.vsix#/cpptools-windows.zip",
-  "pre_install": "echo $dir",
   "extract_dir": "extension",
   "version": "v1.22.11",
   "description": "Install the OpenDebugAD7.exe for nvim dap",
